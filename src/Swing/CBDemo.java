@@ -1,7 +1,5 @@
 package Swing;
 
-import com.intellij.util.ui.CheckBox;
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ItemEvent;
